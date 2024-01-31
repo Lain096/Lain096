@@ -8,9 +8,9 @@
 </hr>
 
 <details>
-  <summary>Language</summary><br/>
+  <summary>Languages</summary><br/>
   <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lain096&show_icons=true"/>
+    <img src="https://wakatime.com/share/@018d5a52-ca3f-4e78-87c7-bff483e4e6e3/716249f6-80d4-4e44-8488-f325e8ee4b59.svg"/>
   </p>
 </details>
 <!--START_SECTION:wakaTime-->
