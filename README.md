@@ -8,11 +8,10 @@
 </hr>
 
 <details>
+   <i>Since 1-Feb-2024</i>
   <summary>Languages</summary><br/>
   <p align="center">
-   <i>Since 1-Feb-2024</i>
     <img src="https://wakatime.com/share/@018d5a52-ca3f-4e78-87c7-bff483e4e6e3/716249f6-80d4-4e44-8488-f325e8ee4b59.svg" height="450" width="600"/>
-    
   </p>
 </details>
 <!--START_SECTION:wakaTime-->
