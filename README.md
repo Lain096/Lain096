@@ -11,7 +11,7 @@
 </hr>
 
 <details>
-  <summary><b>Languages</b>·</summary>
+  <summary><b>Languages</b> ·</summary>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
