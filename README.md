@@ -8,7 +8,7 @@
 </hr>
 
 <details>
-  <summary><b>Languages</b> · <i>since 1-Feb-2024</i></summary>
+  <summary><b>Languages</b>·</summary>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
