@@ -1,10 +1,13 @@
 
 
 <hr> 
-  <p>Hi there, Im Diego Laín 👋 </p>
-  <p>Oceanography enthusiast of code. 🌊🚀 | Sea Science Grad 🌐 | Trying to merge two worlds.
-    Check me out more 👉 <a href="https://www.linkedin.com/in/diegolain/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-  </p>
+  <p>Hi, I'm Diego Laín 👋</p>
+<ul>
+  <li>🌊 Marine Sciences graduate</li>
+  <li>🐍 Python &amp; Odoo developer (custom modules, ERP integrations)</li>
+  <li>🐳 Docker, PostgreSQL, Linux servers</li>
+  <li>🔭 Interested in oceanographic data &amp; open science</li>
+</ul>
 </hr>
 
 <details>
